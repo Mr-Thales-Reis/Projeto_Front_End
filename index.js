@@ -1,5 +1,5 @@
-import { criarItemDaLista } from "./scripts/CriarItemDaLista.js";
-import  verificarListaVazia  from "./scripts/verificarListaVazia.js";
+import { criarItemDaLista } from "./Construindo_paginas_dinamicas/scripts/CriarItemDaLista.js";
+import  verificarListaVazia  from "./Construindo_paginas_dinamicas/scripts/verificarListaVazia.js";
 
 
 const botaoAdicionar = document.getElementById("adicionar-item")
